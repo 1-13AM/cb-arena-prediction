@@ -1,0 +1,7 @@
+datasets
+bitsandbytes
+accelerate
+torch
+peft
+wandb
+gdown
